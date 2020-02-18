@@ -6,6 +6,12 @@ This application demonstrates a simple Voice Gender Detection. Voice gender iden
 - Train a GMM on those features
 - In prediction, compute the likelihood of each gender using the trained GMM, and pick the most likely gender
 
+First, clone the project or download it locally. Then, install the requirements using:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Re-train the algorithm
 
 The notebook contains the training code and the generation of the `male.gmm` and `female.gmm` files. You can just run the code of the notebook to retrain them.
