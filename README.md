@@ -26,8 +26,6 @@ To run the application locally, simply run:
 streamlit run app.py
 ```
 
-Otherwise, I'm currently publishing it online with Render.
-
 ![image](app.png)
 
 ## Limitations
